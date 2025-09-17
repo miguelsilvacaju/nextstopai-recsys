@@ -1,0 +1,30 @@
+{
+  "user_features_vocab": [
+    "edad=18-25",
+    "edad=26-35",
+    "edad=36-50",
+    "pais=AR",
+    "pais=CL",
+    "pais=PE",
+    "segmento=Backpacker",
+    "segmento=Familiar",
+    "segmento=VIP"
+  ],
+  "item_features_vocab": [
+    "categoria=aventura",
+    "categoria=ciudad",
+    "categoria=cultural",
+    "categoria=montaña",
+    "categoria=playa",
+    "categoria=relax",
+    "pais_dest=AR",
+    "pais_dest=CL",
+    "pais_dest=MX",
+    "pais_dest=PE",
+    "pais_dest=US",
+    "temporada=invierno",
+    "temporada=todo",
+    "temporada=verano"
+  ],
+  "notes": "Mantener estos vocabularios para construir features en cold-start."
+}
